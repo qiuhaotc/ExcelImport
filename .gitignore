@@ -1,0 +1,4 @@
+*.suo
+src/ExcelImport/.vs/
+src/ExcelImport/ExcelImport/bin/
+src/ExcelImport/ExcelImport/obj/
